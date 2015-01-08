@@ -15,13 +15,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="col-full">
-
-			<?php
-			/**
-			 * @hooked storefront_footer_widgets - 10
-			 * @hooked storefront_credit - 20
-			 */
-			do_action( 'storefront_footer' ); ?>
+			<p> Designed by GourmetFuel </p>
 
 		</div><!-- .col-full -->
 	</footer><!-- #colophon -->
